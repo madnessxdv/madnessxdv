@@ -5,23 +5,44 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/WjTZlp" width="120">
+  <img src="Tumblr_l_343754909414438.gif" width="120">
   <img src="Tumblr_l_344573191953501.gif" width="400">
-  <img src="https://imgur.com/a/WjTZlp" width="120">
+  <img src="Tumblr_l_343754909414438.gif" width="120">
 </p>
 
 <p align="center" style="color:white;">
-More about me: ...
+sum stuff abt m̲e̲ o_O 
+----------------------------------
+``┊﹫davey  &  madness : any prnc intp bday 28 . 1O 
+
+≡ . ︶︶   ֺ ִ | i’m in a bunch of fandoms and into a lot of stuff in general, so yeah
+always down to talk to ppl like me
+
+i love music btw
+like… i love music way too much lol
+
+me, if u even care ◠◠
+ ⤻┊` main kins . : 
+dave strider & stan marsh┊``
+
+꒰ ┈ . dni bruh : :
+  if you’re under 15 or take everything way too seriously .
+
+
+
+
+◟◟ I luv tomtord yaayy ^_^ . and my irl tom ֺ ִ | 
+≡  ֺ ִ | yoo if u wanna be f̲r̲i̲e̲n̲d̲s̲, hmu on discord ⤻ ﹫m4dnessxd . ︶︶
 </p>
 
 <p align="center">
-  <img src="https://your-small-gif-1.gif" width="120">
+  <img src="Tumblr_l_343754909414438.gif" width="120">
 </p>
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/XXXXXXXX" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv?si=TH0cVoxyQmqOK-XrVTpMxA" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </p>
 
 <p align="right" style="font-size:10px;">
-art by: ...
+ ⤻┊` gif by: kotedema : . : ┊`` tumblr ┊``
 </p>
