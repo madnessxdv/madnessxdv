@@ -32,6 +32,7 @@ dave strider & stan marsh┊``
 
 
 ◟◟ I luv tomtord yaayy ^_^ . and my irl tom ֺ ִ | 
+
 ≡  ֺ ִ | yoo if u wanna be f̲r̲i̲e̲n̲d̲s̲, hmu on discord ⤻ ﹫m4dnessxd . ︶︶
 </p>
 
