@@ -44,7 +44,7 @@ me, if u even care ◠◠
 </p>
 
 
-<div style="display:flex; justify-content:center; align-items:center; width:100%; margin:20px 0;">
+<div style="display: flex; justify-content: center; margin: 20px 0;">
   <iframe 
     src="https://open.spotify.com/embed/track/2wanmHGKh4DFoOd04Klvuv?utm_source=generator" 
     width="300" 
@@ -52,7 +52,7 @@ me, if u even care ◠◠
     frameborder="0" 
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
     allowfullscreen 
-    style="border-radius:12px;">
+    style="border-radius: 12px;">
   </iframe>
 </div>
 
