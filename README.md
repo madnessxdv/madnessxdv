@@ -19,13 +19,17 @@ sum stuff abt m̲e̲ o_O
 always down to talk to ppl like me
 
 i love music btw
+
 like… i love music way too much lol
 
 me, if u even care ◠◠
+
  ⤻┊` main kins . : 
+ 
 dave strider & stan marsh┊``
 
 ꒰ ┈ . dni bruh : :
+
   if you’re under 15 or take everything way too seriously .
 
 
