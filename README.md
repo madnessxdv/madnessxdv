@@ -1,4 +1,4 @@
-<h1 align="center">`` . 𝓓ave.y : :</h1>
+<h1 align="center">`` . Info : :</h1>
 
 <p align="center" style="color:red;">
 (⇄ ; . 𝒟avey : . ``any prnc ) . - 17 y.o ; . ! 
