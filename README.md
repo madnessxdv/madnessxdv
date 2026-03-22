@@ -45,7 +45,9 @@ me, if u even care ◠◠
 
 
 <p align="center">
-[![Spotify](https://img.shields.io/badge/Spotify-Play-1DB954?logo=spotify)](https://open.spotify.com/track/https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv?si=3494e095462048dc)
+<a href="https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv">
+  <img src="https://i.scdn.co/image/ab67616d0000b273XXXXXXXX" width="300">
+</a>
 </p>
 
 <p align="right" style="font-size:10px;">
