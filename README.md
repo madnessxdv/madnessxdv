@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://imgur.com/a/WjTZlp" width="120">
-  <img src="" width="400">
+  <img src="Tumblr_l_344573191953501.gif" width="400">
   <img src="https://imgur.com/a/WjTZlp" width="120">
 </p>
 
