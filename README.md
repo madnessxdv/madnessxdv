@@ -32,12 +32,11 @@ me, if u even care ◠◠
 ꒰ ┈ . dni bruh : :
  if you’re under 15 or take everything way too seriously .
 
-
-
+----
 
 ◟◟ I luv tomtord yaayy ^_^ . and my irl tom ֺ ִ | 
 
-≡  ֺ ִ | yoo if u wanna be f̲r̲i̲e̲n̲d̲s̲, hmu on discord ⤻ ﹫m4dnessxd . ︶︶
+   ≡  ֺ ִ | yoo if u wanna be f̲r̲i̲e̲n̲d̲s̲, hmu on discord ⤻ ﹫m4dnessxd . ︶︶
 </p>
 
 <p align="center">
