@@ -44,17 +44,44 @@ me, if u even care ◠◠
 </p>
 
 
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe 
-    src="https://open.spotify.com/embed/track/2wanmHGKh4DFoOd04Klvuv?utm_source=generator" 
-    width="300" 
-    height="380" 
-    frameborder="0" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    allowfullscreen 
-    style="border-radius: 12px;">
-  </iframe>
-</div>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify Embed</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center; /* по горизонтали */
+      align-items: center;     /* по вертикали */
+      height: 100vh;           /* на всю высоту окна */
+      margin: 0;
+      background-color: #f0f0f0; /* для контраста */
+    }
+    .spotify-container {
+      width: 100%;
+      max-width: 500px; /* максимальная ширина плеера */
+    }
+    iframe {
+      border-radius: 12px;
+      width: 100%;
+      height: 352px;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="spotify-container">
+    <iframe 
+      src="https://open.spotify.com/embed/track/2wanmHGKh4DFoOd04Klvuv?utm_source=generator" 
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+</body>
+</html>
 
 <p align="right" style="font-size:10px;">
  ⤻┊` gif by: kotedema : . : ┊`` tumblr ┊``
