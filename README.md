@@ -43,7 +43,6 @@ me, if u even care ◠◠
   <img src="Tumblr_l_343754909414438.gif" width="400">
 </p>
 
-----
 
 <p align="center">
   <iframe style="border-radius:12px" src="https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv?si=TH0cVoxyQmqOK-XrVTpMxA" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
