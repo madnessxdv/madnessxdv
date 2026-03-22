@@ -36,7 +36,7 @@ dave strider & stan marsh┊``
 </p>
 
 <p align="center">
-  <img src="Tumblr_l_343754909414438.gif" width="120">
+  <img src="Tumblr_l_343754909414438.gif" width="400">
 </p>
 
 <p align="center">
