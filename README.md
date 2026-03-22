@@ -1,13 +1,13 @@
 <h1 align="center">`` . 𝓓ave.y : :</h1>
 
 <p align="center" style="color:red;">
-Name: ... | Age: ... | Birthday: ... | About: ...
+(⇄ ; . 𝒟avey : . ``any prnc ) . - 17 y.o ; . ! ⁝
 </p>
 
 <p align="center">
-  <img src="https://Tumblr_l_344326306730261.gif" width="120">
-  <img src="https://your-big-gif.gif" width="400">
-  <img src="https://your-small-gif-2.gif" width="120">
+  <img src="https://imgur.com/a/WjTZlp" width="120">
+  <img src="https://imgur.com/a/TdQVpgM" width="400">
+  <img src="https://imgur.com/a/WjTZlp" width="120">
 </p>
 
 <p align="center" style="color:white;">
