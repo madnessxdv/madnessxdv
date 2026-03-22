@@ -21,6 +21,7 @@ always down to talk to ppl like me
 i love music btw
 like… i love music way too much lol
 
+----
 
 me, if u even care ◠◠
  ⤻┊` main kins . : 
