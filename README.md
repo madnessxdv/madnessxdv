@@ -22,11 +22,12 @@ i love music btw
 
 like… i love music way too much lol
 
-me, if u even care ◠◠
 
+me, if u even care ◠◠
  ⤻┊` main kins . : 
  
 dave strider & stan marsh┊``
+
 
 ꒰ ┈ . dni bruh : :
 
