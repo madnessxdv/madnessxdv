@@ -44,11 +44,17 @@ me, if u even care ◠◠
 </p>
 
 
-<p align="center">
-<a href="https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273XXXXXXXX" width="300">
-</a>
-</p>
+<div style="display:flex; justify-content:center; align-items:center; width:100%; margin:20px 0;">
+  <iframe 
+    src="https://open.spotify.com/embed/track/2wanmHGKh4DFoOd04Klvuv?utm_source=generator" 
+    width="300" 
+    height="380" 
+    frameborder="0" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    allowfullscreen 
+    style="border-radius:12px;">
+  </iframe>
+</div>
 
 <p align="right" style="font-size:10px;">
  ⤻┊` gif by: kotedema : . : ┊`` tumblr ┊``
