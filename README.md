@@ -16,10 +16,6 @@ sum stuff abt m̲e̲ o_O
  ``┊﹫davey  &  madness : any prnc intp bday 28 . 1O 
 
 ≡ . ︶︶   ֺ ִ | i’m in a bunch of fandoms and into a lot of stuff in general, so yeah
-always down to talk to ppl like me
-
-i love music btw
-like… i love music way too much lol
 
 ----
 
