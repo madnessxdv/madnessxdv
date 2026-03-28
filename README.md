@@ -11,28 +11,18 @@
 </p>
 
 <p align="center" style="color:white;">
-sum stuff abt m̲e̲ o_O 
+◟◟ I luv tomtord yaayy ^_^ . and my irl tom ֺ ִ |  
  ----
  ``┊﹫davey  &  madness : any prnc intp bday 28 . 1O 
-
-≡ . ︶︶   ֺ ִ | i’m in a bunch of fandoms and into a lot of stuff in general, so yeah
-
 ----
-
-me, if u even care ◠◠
-
- ⤻┊` main kins . : 
- dave strider & stan marsh┊``
-
 
 ꒰ ┈ . dni bruh : :
  if you’re under 15 or take everything way too seriously .
 
 ----
 
-◟◟ I luv tomtord yaayy ^_^ . and my irl tom ֺ ִ | 
 
-   ≡  ֺ ִ | yoo if u wanna be f̲r̲i̲e̲n̲d̲s̲, hmu on discord ⤻ ﹫m4dnessxd . ︶︶
+   ≡ . ︶︶  ֺ ִ | yoo if u wanna be f̲r̲i̲e̲n̲d̲s̲, hmu on discord ⤻ ﹫m4dnessxd . ︶︶
 </p>
 
 <p align="center">
