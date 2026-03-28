@@ -1,7 +1,7 @@
 <h1 align="center">`` . Info : :</h1>
 
 <p align="center" style="color:red;">
-(⇄ ; . 𝒟avey : . ``any prnc ) . - 17 y.o ; . ! 
+o_O
 </p>
 
 <p align="center">
@@ -12,9 +12,12 @@
 
 <p align="center" style="color:white;">
 ◟◟ I luv tomtord yaayy ^_^ . and my irl tom ֺ ִ |  
+
+  
  ----
- ``┊﹫davey  &  madness : any prnc intp bday 28 . 1O 
-----
+ 
+ ``┊﹫davey  &  madness : any prnc : - 17 y.o . ︶︶
+
 
 ꒰ ┈ . dni bruh : :
  if you’re under 15 or take everything way too seriously .
